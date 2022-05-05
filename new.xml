@@ -1,1 +1,10 @@
-1234567890
+<person>
+	<name>Александра</name>
+	<age>25</age>
+	<pets>
+		<pet>Моисей</pet>
+		<pet>Персей</pet>
+	</pets>
+	<salary>10000000000</salary>
+</person>
+		
